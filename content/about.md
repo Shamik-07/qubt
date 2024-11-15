@@ -3,8 +3,8 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: Shamik-07
+jobTitle: Confused ML Engineer
+name: Shamik
 bio: true
 icon: ":coffee:"
 ---

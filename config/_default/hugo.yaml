@@ -2,8 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://Shamik-07.github.io/qubt"
-title: qubt
+baseURL: "https://Shamik-07.github.io/"
+title: My New Hugo Site
 
 ############################
 ## MISC
@@ -11,5 +11,5 @@ title: qubt
 
 enableEmoji: true
 disableKinds: ["taxonomy", "term"]
-languageCode: "en-us"
+languageCode: "en-uk"
 enableRobotsTXT: true

@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: Shamik-07
-  image: author.png
-  greeting: "Your new Qubt site :tada:"
+  name: Shamik
+  image: https://imgs.xkcd.com/comics/machine_learning.png
+  greeting: "My new website :tada:"
   icon: ":wave:"
 
 ############################
@@ -13,8 +13,8 @@ author:
 ############################
 
 links:
-  - github: https://github.com/Shamik-07/qubt
-  - link: https://github.com/Shamik-07/qubt#readme
+  - github: https://github.com/Shamik-07/
+  - link: https://shamik-07.github.io/qubt/
   # - website: 
   # - x-twitter: 
   # - mastodon: 
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: qubt
-description: "Site build with Qubt & Hugo"
+title: Confused ML Engineer
+description: "The great website"
 images:
-  - thumbnail.png
+  - https://imgs.xkcd.com/comics/machine_learning.png
