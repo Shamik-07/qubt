@@ -4,17 +4,17 @@
 
 author:
   name: Shamik
-  image: https://imgs.xkcd.com/comics/machine_learning.png
+  image: author.png
   greeting: "My new website :tada:"
   icon: ":wave:"
-
+  Biography: ml_img.png
 ############################
 ## Links
 ############################
 
 links:
   - github: https://github.com/Shamik-07/
-  - link: https://shamik-07.github.io/qubt/
+  - link: https://shamik-07.github.io/qubt
   # - website: 
   # - x-twitter: 
   # - mastodon: 
@@ -67,4 +67,4 @@ links:
 title: Confused ML Engineer
 description: "The great website"
 images:
-  - https://imgs.xkcd.com/comics/machine_learning.png
+  - ml_img.png
