@@ -9,7 +9,6 @@ bio: true
 icon: ":coffee:"
 ---
 
-Hi there! :+1:.
-
+##### Hi there!
 All you need to know about me is encapsulated in the image below:
-![Me](/assets/ml_img.png)
+![Me](ml_img.png)
