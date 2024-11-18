@@ -13,3 +13,11 @@ enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-uk"
 enableRobotsTXT: true
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        enableDefault: true
+      link:
+        enableDefault: true
+        
